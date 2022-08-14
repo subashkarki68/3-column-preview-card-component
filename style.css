@@ -49,6 +49,9 @@ html {
 .card {
     background-color: var(--bright-orange);
     padding: 64px 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .card:first-child {
