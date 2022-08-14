@@ -125,6 +125,7 @@ html {
     }
 
     .card-container {
+        width: 70%;
         flex-direction: row;
     }
 
